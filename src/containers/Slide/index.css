@@ -1,0 +1,43 @@
+/* .container {
+    width: 20%;
+    margin: auto; }
+   */
+  h3 {
+    text-align: center; }
+  
+  .slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 400px;
+  }
+  
+  .slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+  
+  .fade {
+    display: flex;
+  }
+  
+  .fade .container {
+    width: 30px;
+    overflow: hidden;
+  }
+  
+  .fade .container img {
+    width: 30px;
+  }
+  
+  .fade h2 {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background: #adceed;
+  }
